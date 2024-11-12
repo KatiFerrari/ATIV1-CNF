@@ -1,1 +1,13 @@
-{"name":"ativ1-cnf","version":"1.0.0","description":"Projeto de exemplo","main":"index.html","scripts":{"start":"node script.js"},"author":"","license":"ISC"}
+{
+    "name": "ativ1-cnf",
+    "version": "1.0.0",
+    "description": "Projeto de exemplo",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
