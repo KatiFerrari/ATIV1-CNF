@@ -1,1 +1,1 @@
-{ "name": "ativ1-cnf", "version": "1.0.0", "description": "Projeto de exemplo", "main": "index.html", "scripts": { "start": "node index.js" }, "dependencies": {} }
+{"name":"ativ1-cnf","version":"1.0.0","description":"Projeto de exemplo","main":"index.html","scripts":{"start":"node script.js"},"author":"","license":"ISC"}
